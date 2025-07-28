@@ -1,0 +1,18 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Welcome to Dojo Blog",
+            "body": "This is the first post on our new blog platform. Stay tuned for more updates!",
+            "author": "Admin",
+            "date": "2023-10-01"
+        },
+        {
+            "id": 2,
+            "title": "Understanding React",
+            "body": "React is a JavaScript library for building user interfaces. It allows developers to create large web applications that can change data, without reloading the page.",
+            "author": "Jane Doe",
+            "date": "2023-10-02"
+        }
+    ]
+}
