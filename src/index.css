@@ -5,6 +5,7 @@
   margin: 0;
   font-family: "Quicksand";
   color: #333;
+  background-color: #fafafa;
 }
 .navbar {
   padding: 20px;
@@ -53,4 +54,79 @@ border-bottom: 1px solid #fafafa;
   border-radius: 5%;
   background-color: #f1356d;
   color: white;
+}
+
+.blog-preview a{
+  text-decoration:none;
+}
+.blog-details div {
+  margin: 20px 0;
+  padding: 20px;
+  border: 1px solid #f2f2f2;
+}
+.blog-details h2 {
+  color: #f1356d;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.create {
+  max-width: 400ox;
+  margin: 0 auto;
+  text-align: center;
+}
+.create h2 {
+  color: #f1356d;
+  margin-bottom: 30px;
+  font-size: 20px; 
+}
+.create label {
+  display: block;
+  text-align: left;
+}
+.create h2 {
+  color: #f1356d;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.create input, .create textarea,.create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin:10px 0;
+  border: 1px solid #f2f2f2;
+  box-sizing: border-box;
+  display: block;
+}
+.create button {
+  background-color: #f1356d;
+  color: white;
+  padding: 8px;
+  border-radius: 8px;
+  border: 0;
+  cursor: pointer;
+}
+
+.blog-details h2 {
+  color: #f1356d;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.blog-details div {
+  margin: 20px 0;
+}
+.blog-details button {
+  background:#f1356d;
+  color: white;
+  padding: 8px;
+  border-radius: 8px;
+  border: 0;
+  cursor: pointer;
+}
+
+.not-found {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  
+  
+  color: #856404;
 }

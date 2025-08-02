@@ -1,18 +1,28 @@
 {
-    "blogs": [
-        {
-            "id": 1,
-            "title": "Welcome to Dojo Blog",
-            "body": "This is the first post on our new blog platform. Stay tuned for more updates!",
-            "author": "Admin",
-            "date": "2023-10-01"
-        },
-        {
-            "id": 2,
-            "title": "Understanding React",
-            "body": "React is a JavaScript library for building user interfaces. It allows developers to create large web applications that can change data, without reloading the page.",
-            "author": "Jane Doe",
-            "date": "2023-10-02"
-        }
-    ]
+  "blogs": [
+    {
+      "id": "1",
+      "title": "My First Blog",
+      "body": "Welcome to my first blog post!",
+      "author": "Shaswat"
+    },
+    {
+      "id": "2",
+      "title": "React Tips",
+      "body": "Here are some cool React tips.",
+      "author": "Alex"
+    },
+    {
+      "id": "3",
+      "title": "Learning Hooks",
+      "body": "Hooks make state management easier.",
+      "author": "Sam"
+    },
+    {
+      "id": "8e28",
+      "title": "vadhaiyan ",
+      "body": "google intern ananya vai ko vadhaiyaan ",
+      "author": "Shaswat"
+    }
+  ]
 }
